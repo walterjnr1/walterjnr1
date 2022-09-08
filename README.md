@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walterjnr1
-- 👀 I’m interested in Flutter Developement
-- 🌱 I’m currently learning ...Flutter
+- 👀 I’m interested in Web and Mobile Developement
+- 🌱 I’m currently learning ...Flutter/Dart
 - 💞️ I’m looking to collaborate on ...Startup
 - 📫 How to reach me ... Whatsapp +2348067361023 , Twitter - Senior Walter, Linkedin-Ndueso Okorie
 
